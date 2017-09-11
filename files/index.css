@@ -1,0 +1,68 @@
+html, body {
+	margin: 0 0;
+	height: 100%;
+	width: 100%;
+	background-color: #FFC72D;
+}
+
+.above-fold {
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	background-image: url("nbafinals.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+
+#btn2017 { 
+	border: solid white 3px;
+	color: white;
+	width: 50%;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 5px 10px;
+	position: relative;
+}
+
+.teaser {
+	width: 100%;
+	margin: auto;
+	margin-right: 10%;
+}
+
+.wrapper { 
+	width: 30%;
+	margin: 5% 10%;
+	padding: 0px 10px;
+	position: relative;
+	border: solid black 2px;
+	line-height: 2;
+	border-radius: 18px;
+	text-align: center;
+}
+
+.wrapper:hover {
+	background-color: #FFC72D;
+}
+
+.teaser2 {
+	width: 100%;
+	height: 100%; 
+	background-color: rgb(0,107,182);
+	color: #FFC72D;
+	text-align: center;
+}
+
+#btn2018 {
+	border: solid white 3px;
+	color: white;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 5px 10px;
+	position: relative;
+}
+
+@media screen and (max-width: 768px) {
+	.
+}

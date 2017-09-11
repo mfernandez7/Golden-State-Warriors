@@ -1,0 +1,19 @@
+body {
+	background-color: #FFC72D;
+}
+
+#banner-image { 
+	width: 100%;
+	height: auto;
+	z-index: -1;
+	position: fixed;
+}
+
+#button2017 { 
+	background-image: url("logo.gif");
+	background-repeat: no-repeat;
+	border-radius: 75px;
+	width: 25%;
+	height: auto;
+	background-color: white;
+ }
