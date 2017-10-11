@@ -38,6 +38,8 @@ img {
     text-transform: uppercase;
 }
 
+
+
 @media screen and (max-width: 768px) {
     img {
         width: 80%;

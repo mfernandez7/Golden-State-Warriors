@@ -23,10 +23,12 @@ html, body {
 	text-transform: uppercase;
 	text-decoration: none;
 	padding: 5px 10px;
+	font: verdana,arial,sans-serif;
 }
 
 h2 {
 	padding-top: 1%;
+	font: verdana,arial,sans-serif;
 }
 
 .wrapper { 
@@ -86,6 +88,7 @@ h2 {
 	text-decoration: none;
 	padding: 5px 10px;
 	position: relative;
+	font: verdana,arial,sans-serif;
 }
 
 .banner-images {
@@ -98,6 +101,10 @@ h2 {
 .banner {
 	width: 20%;
 	margin-top: 3%;
+}
+
+p {
+	font: verdana,arial,sans-serif;
 }
 @media screen and (max-width: 768px) {
 	.banner-images {
