@@ -4,7 +4,6 @@ body{
 }
 
 #news {
-    margin: 5% 5%;
     height: 100%;
     width: auto;
     border: solid #FFC72D 5px;
@@ -22,7 +21,7 @@ body{
     max-width: 100%;
     margin-left: 20%;
     margin-right: 20%;
-    background-color: #D3D3D3; 
+    background-color: rgb(0,107,182); 
 }
 
 img {

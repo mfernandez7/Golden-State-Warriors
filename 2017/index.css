@@ -39,6 +39,12 @@ table.gridtable td {
     justify-content: space-around;
 }
 
+p {
+    margin-left: 40%;
+    color: white; 
+    font-size: 24px;
+}
+
 img {
     width: 100%;
 }
@@ -53,6 +59,8 @@ img {
     img {
         height: 50%; 
         width: 50%;
+        display: flex;
         justify-content: center;
+        flex-direction: column;
     }
 }
