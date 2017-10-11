@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
 	//on click event
- 	f
+	$('#quote1').click(author1);
  	$('#quote2').click(author2);
 
 
@@ -26,6 +26,6 @@ $(document).ready(function () {
 		$('#quote2').html('- Grant Hughes');
 	};
 
-	
+
 
 });
